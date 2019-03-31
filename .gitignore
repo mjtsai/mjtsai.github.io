@@ -1,0 +1,22 @@
+### Jekyll ###
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+.DS_Store
+
+# Bundler
+.bundle/
+vendor/
+
+### Logs and Databases ###
+*.log
+*.sql
+*.sqlite
+
+
+### Linux ###
+*~
+.fuse_hidden*
+.Trash-*
+.nfs*
