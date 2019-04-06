@@ -3,7 +3,7 @@ layout: post
 title: '讀 貨幣戰爭 - (1)'
 date: 2013-08-09 05:47
 comments: true
-categories: [Finance]
+categories: [finance]
 ---
 
 ![currency war 1-4](http://user-image.logdown.io/user/838/blog/831/post/84441/vZKVfth7RwmsDeHBHiLt_Photo%203.jpg)
