@@ -31,7 +31,18 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 mathjax: true
-
+kramdown:
+    input: GFM #Github Flavored Markdown   
+    syntax_highlighter_opts:
+        default_lang: html
+        css_class: 'highlight'
+        span:
+            line_numbers: false
+        block:
+            line_numbers: true
+            start_line: 1
+excerpt_separator: <!--more-->
+                    
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
   enabled:
