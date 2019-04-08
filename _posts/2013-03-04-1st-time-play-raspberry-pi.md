@@ -32,12 +32,13 @@ Smoothly it plays the video with the HW decoder. Some codec, MPEG, VC1, you have
 
 Can be controlled with "XBMC official remote" app on iphone in the same net domain. You should turn on this feature in XBMC.
 
-![fig4](https://drive.google.com/uc?id=10ZCnRbF4Z6GYjce3nTZd7fd56gGMBxVF){:height="100px" width="400px"}
+![fig4](https://drive.google.com/uc?id=10ZCnRbF4Z6GYjce3nTZd7fd56gGMBxVF)
 
 
 Turn on AirPlay and try the wifi display.
 
-![fig5](https://drive.google.com/uc?id=1lC_nNTgbaWvtkVe2C_kdh-a5swTNKk6k){:zoom="50%"}![fig6](https://drive.google.com/uc?id=1EdflHiO6CHt15ejX6C5VjzfyW5CsZ7b5){:zoom="50%"}
+
+![fig5](https://drive.google.com/uc?id=1lC_nNTgbaWvtkVe2C_kdh-a5swTNKk6k){:style="width:30%;display:inline;"} ![fig6](https://drive.google.com/uc?id=1EdflHiO6CHt15ejX6C5VjzfyW5CsZ7b5){:style="width:30%; display:inline;"}
 
 
 It seems playing image is ok but playing video is usually buffering. ~~I don't know why local network speed is not enough.~~ To set connection to 802.11n is more faster.
