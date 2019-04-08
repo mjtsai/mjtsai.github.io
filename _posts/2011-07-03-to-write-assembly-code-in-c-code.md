@@ -12,6 +12,7 @@ blogger_orig_url: https://mongala-memo.blogspot.com/2011/07/to-write-assembly-co
 [http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html](http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
 
 I need to write some assembly code in c code for embedded system. It's simple if only pure assembly code is needed. Just write op code with registers in a `.s` file. Unfortunately, it has to link variables in c code to assembly code, so I need more advanced knowledge.
+<!--more-->
 
 
 pure assembly for MIPS:

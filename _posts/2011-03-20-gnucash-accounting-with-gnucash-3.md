@@ -10,6 +10,7 @@ blogger_orig_url: https://mongala-memo.blogspot.com/2011/03/gnucash-accounting-w
 ---
 
 外幣的觀念也是一樣，因為是以新台幣為出發點，最後就要換回新台幣結算，因此和股票一樣，新增一個外幣計價的項目，將台幣轉換過去，也是一樣是資產轉換，結算也是一樣換成封關來結算，只是，記錄盈虧比較怪異一點。
+<!--more-->
 
 [Tracking Currency Investments (How-To)](http://svn.gnucash.org/docs/guide/currency_invest1.html)
 

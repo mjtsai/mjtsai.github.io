@@ -11,6 +11,7 @@ blogger_orig_url: https://mongala-memo.blogspot.com/2010/03/latex.html
 
 -- 2010 --
 Now I love to just download fonts from here cwTeX Unicode Type 1 and copy the fonts to the directory described in section 4.1.2 of the 1st link below. It easy! Under CJK package it works. I usually embed cwmu and cwku. They are enough for my purpose. 
+<!--more-->
  
 -- 2005/02/02 bbs backup -- 
 如果是抓果正兄做的王漢宗 type1 字型的話

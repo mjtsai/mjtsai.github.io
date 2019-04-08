@@ -20,6 +20,7 @@ The purpose of the system control coprocessor, **CP15**, is to control and provi
 - Memory Management Unit (MMU) configuration and management
 - preloading engine for L2 cache
 - system performance monitoring.
+<!--more-->
 
 
 ### Instruction

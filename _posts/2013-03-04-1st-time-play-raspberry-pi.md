@@ -13,9 +13,13 @@ blogger_orig_url: https://mongala-memo.blogspot.com/2013/03/1st-time-play-raspbe
 
 Many people playing the tiny board and many communities supporting it, so I bought one to be a media center and wireless AP(and further applications next).
 
+
 It's easy to install raspbmc on the sd card without any command for settings. It can be controlled by the CEC supported TV. I don't have to link to an IR sensor and buy a remote controller.
 
 ![fig1](https://drive.google.com/uc?id=19rXmf6fr-3D_08h7ZNsfpP2zmDG6pvqk)
+<!--more-->
+
+
 
 ![fig2](https://drive.google.com/uc?id=1-4JovLnI2uGRkguWyF0sCBaUEtn4MKTY)
 
@@ -28,13 +32,12 @@ Smoothly it plays the video with the HW decoder. Some codec, MPEG, VC1, you have
 
 Can be controlled with "XBMC official remote" app on iphone in the same net domain. You should turn on this feature in XBMC.
 
-![fig4](https://drive.google.com/uc?id=10ZCnRbF4Z6GYjce3nTZd7fd56gGMBxVF)
+![fig4](https://drive.google.com/uc?id=10ZCnRbF4Z6GYjce3nTZd7fd56gGMBxVF){:height="100px" width="400px"}
 
 
 Turn on AirPlay and try the wifi display.
 
-![fig5](https://drive.google.com/uc?id=1lC_nNTgbaWvtkVe2C_kdh-a5swTNKk6k)
-![fig6](https://drive.google.com/uc?id=1EdflHiO6CHt15ejX6C5VjzfyW5CsZ7b5)
+![fig5](https://drive.google.com/uc?id=1lC_nNTgbaWvtkVe2C_kdh-a5swTNKk6k){:zoom="50%"}![fig6](https://drive.google.com/uc?id=1EdflHiO6CHt15ejX6C5VjzfyW5CsZ7b5){:zoom="50%"}
 
 
 It seems playing image is ok but playing video is usually buffering. ~~I don't know why local network speed is not enough.~~ To set connection to 802.11n is more faster.

@@ -3,8 +3,7 @@ layout: post
 title: 用 GnuCash 記帳 Accounting with GnuCash - 2
 date: '2011-03-15T23:39:00.000+08:00'
 author: mjtsai
-tags:
-- finance
+tags: finance
 modified_time: '2011-03-18T08:45:13.701+08:00'
 blogger_id: tag:blogger.com,1999:blog-6729751024593483406.post-3223713469971449961
 blogger_orig_url: https://mongala-memo.blogspot.com/2011/03/gnucash-accounting-with-gnucash-2.html
@@ -13,6 +12,7 @@ blogger_orig_url: https://mongala-memo.blogspot.com/2011/03/gnucash-accounting-w
 [GnuCash進階教學－股票篇（1）](http://blog.xuite.net/michaelr/linux/23599287)
 
 我是看上面的教學學習怎麼紀錄股票帳目的，他講的就不再贅述，這裡是將每種股票都分別列一個項目來紀錄，我關心的只是如何紀錄交易的獲利、虧損、配息以及如何結算，但我沒有信用交易的經驗，這裡不提，此外，還有一項小小的外幣記帳心得，只有記帳才會注意到，哇，原來手續費和證交稅就可以花費這麼多錢。
+<!--more-->
 
 
 

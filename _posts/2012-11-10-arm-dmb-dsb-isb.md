@@ -11,6 +11,7 @@ blogger_orig_url: https://mongala-memo.blogspot.com/2012/11/arm-dmb-dsb-isb.html
 
 
 ### Definition
+<!--more-->
 
 [Home > ARM and Thumb Instructions > Miscellaneous instructions > DMB, DSB, and ISB](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0489c/CIHGHHIE.html)
 

@@ -13,6 +13,7 @@ blogger_orig_url: https://mongala-memo.blogspot.com/2010/05/fnf1-to-turn-off-mon
 ubuntu 10.04
 
 It's based on acpid, acpi-support. while some hotkeys pressed, acpi events are triggered then some handlers be called according to the events respectively. 
+<!--more-->
 
 `/etc/acpi` contains scripts for handler, `/etc/acpi/events` contains the events definition. Now it targets on turn off monitor power because it has to modify some codes in my laptop. Fn+F1 is the hotkey to turn off monitor power.
 
